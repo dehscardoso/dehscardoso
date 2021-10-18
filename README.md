@@ -1,4 +1,4 @@
-<h2> Hello, I am Deborah Cardoso <img src="https://media.giphy.com/media/clGZt83rrz2aWje0tL/giphy.gif" width="70"></h2>
+<h2> Hello, I'm Deborah Cardoso</h2>
 <br>
 <p>
   <em>
