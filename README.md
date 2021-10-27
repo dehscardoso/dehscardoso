@@ -1,4 +1,4 @@
-<h2> Hello, I'm Deborah </h2><br>
+<h2> Hello, I'm Deborah </h2>
 
 <h3> If you want to know more about what I've been working on, you're at the right spot!</h3>
 
