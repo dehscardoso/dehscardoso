@@ -19,6 +19,7 @@
 <br>
   
 <div> 
-  <a href = "mailto:dsc8021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:dsc8021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dehscardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.credly.com/users/dehscardoso"><img src="https://img.shields.io/badge/Credly-E34F26?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
 </div>
