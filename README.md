@@ -19,7 +19,8 @@
 <br>
   
 <div> 
-  <a href ="mailto:dsc8021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dehscardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.credly.com/users/dehscardoso"><img src="https://img.shields.io/badge/Credly-E34F26?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:dsc8021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dehscardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
+  <a href="https://www.credly.com/users/dehscardoso"><img src="https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
+  <a href="https://www.cloudskillsboost.google/public_profiles/8e3f4545-d557-4510-baa6-5f9434b1f8eb"><img src="https://img.shields.io/badge/Qwiklabs-ffca28?style=for-the-badge&logo=&logoColor=black" target"_blank"></a>
 </div>
