@@ -2,7 +2,7 @@
 
 <h3> If you want to know more about what I've been working on, you're at the right spot!</h3>
 
-- 👩‍💻 I’m currently working on personal projects involving different programming languages
+- 👩‍💻 I’m currently working to improve my skills and become a data scientist
 - 📚 I’m currently learning AI, ML and all data related
 - 🔓 Ardent supporter of open source, science and data
 - 💬 Ask me about anything, I'll try to help with what I know (:
