@@ -3,7 +3,7 @@
 <h3> If you want to know more about what I've been working on, you're at the right spot!</h3>
 
 - 👩‍💻 I’m currently working to improve my skills and become a data scientist
-- 📚 I’m currently learning statistics and machine learning
+- 📚 I’m studying more about statistics and machine learning
 - 🔓 Ardent supporter of open source, science and data
 - 💬 Ask me about anything, I'll try to help with what I know (:
 - 🙋 Pronouns: She/Her
