@@ -24,5 +24,6 @@
   <a href="https://www.credly.com/users/dehscardoso"><img src="https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
   <a href="https://www.cloudskillsboost.google/public_profiles/8e3f4545-d557-4510-baa6-5f9434b1f8eb"><img src="https://img.shields.io/badge/Qwiklabs-ffca28?style=for-the-badge&logo=&logoColor=black" target"_blank"></a>
   <a href="https://www.datacamp.com/profile/dehscardoso" target="_blank"><img src="https://img.shields.io/badge/Datacamp-1ED760?&style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
+  <a href="https://cursos.alura.com.br/user/dehscardoso" target="_blank"><img src="https://img.shields.io/badge/Alura-294172?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
   <!---<a href="https://www.hackerrank.com/dehscardoso"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=&logoColor=white" target"_blank"></a> ---> 
 </div>
