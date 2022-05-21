@@ -8,17 +8,10 @@
 - 💬 Ask me about anything, I'll try to help with what I know 
 - 🙋 Pronouns: She/Her
 
-<br><br>
+<br>
 
-<div>
-  <a href="https://github.com/dehscardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehscardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehscardoso&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<br><br>
  
-## Drop me a line! </h2>
+## 📬 Drop me a line! </h2>
 <br>
 <div>
   <a href ="mailto:dsc8021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
