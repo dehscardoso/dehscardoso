@@ -19,8 +19,8 @@
   <a href="https://www.credly.com/users/dehscardoso"><img src="https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
   <a href="https://www.cloudskillsboost.google/public_profiles/8e3f4545-d557-4510-baa6-5f9434b1f8eb"><img src="https://img.shields.io/badge/Qwiklabs-ffca28?style=for-the-badge&logo=&logoColor=black" target"_blank"></a>
   <a href="https://www.skoob.com.br/usuario/7052370" target="_blank"><img src="https://img.shields.io/badge/Skoob-%23039BE5.svg?&style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1MYor9w3EDdE7hGUZqvzvDmoS5CpwOZuf/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resumé EN-%23ffffff.svg?style=for-the-badge&logo=&logoColor=151515)" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1pVDyy0tvOv6uE7gl03-fPSh1IApLtFkT/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resumé PT-%234B275F.svg?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1MYor9w3EDdE7hGUZqvzvDmoS5CpwOZuf/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resumé-%23ffffff.svg?style=for-the-badge&logo=&logoColor=151515)" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1pVDyy0tvOv6uE7gl03-fPSh1IApLtFkT/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-%234B275F.svg?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
 
 </div>
 
